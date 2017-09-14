@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='preSCMbuildstep' version='0.3'><l:dependency name='Pre SCM BuildStep Plugin' groupId='org.jenkins-ci.plugins' artifactId='preSCMbuildstep' version='0.3' url='https://wiki.jenkins-ci.org/display/JENKINS/pre-scm-buildstep'><l:description/></l:dependency></l:dependencies>
